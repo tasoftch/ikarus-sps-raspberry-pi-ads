@@ -15,6 +15,6 @@
   "require" : {
     "php": "^7.2",
     "tasoft/php-i2c-extension": "^0.9",
-    "ikarus/sps-raspberry-pi": "^0"
+    "ikarus/sps": "^0.8"
   }
 }
